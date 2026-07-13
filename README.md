@@ -14,11 +14,11 @@ Secondary goals include connecting with health and wellness resources,
 finding out about community events, and learning about volunteer opportunities.
 
 ## Inspiration Interfaces
-KnightConnect - Idea to group links together, and to establish hierarchy starting at top of page
-Orange County Library System - Upcoming events section provided inspiration
-Feeding America - Idea for changing color of buttons on hover
-IRC - Helped to inform use of color to highlight information
-WWF - News section adapted to build trust and credibility
+- KnightConnect - Idea to group links together, and to establish hierarchy starting at top of page
+- Orange County Library System - Upcoming events section provided inspiration
+- Feeding America - Idea for changing color of buttons on hover
+- IRC - Helped to inform use of color to highlight information
+- WWF - News section adapted to build trust and credibility
 
 ## Design Choices
 - Layout: Elements on the page are grouped together into grids depending on related content. These grids are placed on the page following visual and informational hierarchy. 

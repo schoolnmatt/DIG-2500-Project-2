@@ -10,7 +10,7 @@ volunteers who want to support the goals of the food bank.
 
 ## User / Player Goal
 Users’ primary goal is to learn when and where they are able to obtain food.
-Secondary goals could include connecting with health and wellness resources,
+Secondary goals include connecting with health and wellness resources,
 finding out about community events, and learning about volunteer opportunities.
 
 ## Inspiration Interfaces

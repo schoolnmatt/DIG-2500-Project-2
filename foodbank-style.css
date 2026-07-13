@@ -1,0 +1,167 @@
+body {
+    background-color: palegoldenrod;
+}
+
+header {
+    background-color: yellowgreen;
+    margin-top: -50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 50px;
+    overflow: hidden;
+}
+
+footer {
+    background-color: white;
+    margin-bottom: -50px;
+    margin-left: -50px;
+    margin-right: -50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    overflow: hidden;
+}
+
+h1 {
+    font: bold 120px "Century Gothic", impact, sans-serif;
+    text-align: left;
+    color: white;
+    margin: 0px
+}
+
+h2 {
+    font: bold 60px "Century Gothic", impact, sans-serif;
+    text-align: left;
+    color: black;
+    padding-left: 50px;
+    margin-bottom: auto;
+}
+
+h3 {
+    font: bold 50px "Century Gothic", impact, sans-serif;
+    text-align: left;
+    color: black;
+    padding-left: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h4 {
+    font: bold 40px "Century Gothic", impact, sans-serif;
+    text-align: left;
+    color: black;
+    padding-left: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h5 {
+    font: bold 30px "Century Gothic", impact, sans-serif;
+    text-align: left;
+    color: black;
+    padding-left: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h6 {
+    font: bold 20px "Century Gothic", impact, sans-serif;
+    text-align: left;
+    color: black;
+    margin-bottom: auto;
+    margin-top: 20px;
+
+}
+
+p, li {
+    font: 20px "Century Gothic", impact, sans-serif;
+    text-align: left;
+    color: black;
+}
+
+.connectgrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-column-gap: 100px;
+    grid-row-gap: 50px;
+    padding: 50px;
+}
+
+.connectitem {
+    width: 100%;
+}
+
+.connectitem img:hover{
+    transition: .3s ease all;
+    transform: translateY(-10px);
+}
+
+.connectitem h6:hover{
+    transition: .3s ease all;
+    color: yellowgreen;
+}
+
+.eventgrid {
+    display: grid;
+    grid-template-columns: minmax(300px, 1fr) minmax(600px, 1fr);
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-areas:
+        "event-1 event-4"
+        "event-2 event-4"
+        "event-3 event-4";
+    grid-column-gap: 100px;
+    padding: 50px;
+}
+
+.eventitem {
+    width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+    img.eventitem {
+        display: none;
+    }
+}
+
+.eventitem h6:hover{
+    transition: .3s ease all;
+    color: yellowgreen;
+}
+
+.healthgrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-column-gap: 100px;
+    padding: 50px;
+}
+
+.healthitem {
+    width: 100%;
+}
+
+.healthitem h6:hover {
+    transition: .3s ease all;
+    color: yellowgreen;
+}
+
+.healthitem img:hover {
+    transition: .3s ease all;
+    transform: translateY(-10px);
+}
+
+.newsgrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-column-gap: 100px;
+    padding: 50px;
+}
+
+.newsitem {
+    background-color: yellowgreen;
+    padding: 10px
+}
+
+.newsitem h6:hover{
+    transition: .3s ease all;
+    color:white;
+}

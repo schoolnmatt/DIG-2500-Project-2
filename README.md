@@ -34,13 +34,13 @@ finding out about community events, and learning about volunteer opportunities.
 - GitHub Pages
 
 ## Credits
-CSS Grid Course - Coding2GO
-W3 Schools Grid Layout Course
-Leaf Continents Photo - Gerd Altmann, Pixabay
-Schedule Flowers Photo - Deborah Hudson, Pixabay
-Group Volunteer Photo - Carla Borella, Pixabay
-Buffet Photo - Ally J., Pixabay
-Doctor Appointment Photo - Pixabay
+- CSS Grid Course - Coding2GO
+- W3 Schools Grid Layout Course
+- Leaf Continents Photo - Gerd Altmann, Pixabay
+- Schedule Flowers Photo - Deborah Hudson, Pixabay
+- Group Volunteer Photo - Carla Borella, Pixabay
+- Buffet Photo - Ally J., Pixabay
+- Doctor Appointment Photo - Pixabay
 Nutrition Photo - Devon Breen, Pixabay
 
 ## Future Improvements

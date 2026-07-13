@@ -41,7 +41,7 @@ finding out about community events, and learning about volunteer opportunities.
 - Group Volunteer Photo - Carla Borella, Pixabay
 - Buffet Photo - Ally J., Pixabay
 - Doctor Appointment Photo - Pixabay
-Nutrition Photo - Devon Breen, Pixabay
+- Nutrition Photo - Devon Breen, Pixabay
 
 ## Future Improvements
 Because the interface is a single page, the section links do not lead to other pages within the site. For the site to be fully complete, additional pages would be added and the proper links would connect to them.
